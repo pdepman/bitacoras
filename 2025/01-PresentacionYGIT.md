@@ -9,7 +9,7 @@ Fecha: 25/03/2025
 
 
 ### Tarea para la clase que viene
-- Instalar Discord y unirse al servidor (link en el aula virtual)
+- Instalar Discord y unirse al servidor (link en el aula virtual). Recuerden cambiar su nombre para el servidor al entrar.
 - Hacer el TP 0 de presentación en Github - [Enunciado acá](https://docs.google.com/document/d/1tilAI5P8j2C5Z7PdU-qi801Q-lhJVf-7YE7nrFlj-io/edit?tab=t.0)
 - Definir Grupos y contestar [este form](https://docs.google.com/forms/d/15YzKUUkyGY3SWY5x3ws0oy2OtqxCV-F_j43RIgGZPV0/preview) **una sola vez por grupo**.
 - Instalar GHC con Pdepreludat siguiendo [este instructivo](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/entorno.md). Si tenés algún error, [acá hay una lista de errores comunes**](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/haskell/troubleshooting.md), y sino preguntá por **el foro** de Discord.
