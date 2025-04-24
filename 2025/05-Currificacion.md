@@ -10,7 +10,4 @@ Hoy vimos Expresiones Lambda, Currificación, y corregimos la primera entrega de
 
 ## Tareas
 
--  Para la clase que viene: **instalar Miyuki** y probarlo. Les recomendamos avanzar por todas las lecciones de Haskel antes de llegar al parcial. [Wiki de instalación con **videos**](https://github.com/flbulgarelli/miyuki/wiki/Instalaci%C3%B3n). Es una **guía de ejercicios con corrección automática**. Muy recomendada especialmente para quienes quieren repasar porque vienen medio perdidos.
--  Correcciones entrega 1 del TP Grupal Integrador: pueden irlas haciendo, se las corregiremos en dos semanas con la entrega 2.
--  Entrega 2 de 2 del TP Grupal Integrador: `<<Pŕoximamente>>`. Se modifica _sobre el mismo repositorio_, ya que es una continuación. Se entrega en dos semanas.  
--  Postergamos el **TP2 individual** en pos de que puedan practicar con Miyuki. Les recomendamos fuertemente hacer el ejercicio "cuántas muzzas"
+-  próximamente 
