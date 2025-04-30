@@ -6,6 +6,7 @@ https://github.com/user-attachments/assets/efed15ac-df3c-4aeb-be44-d7e5f224b1c1
 
 ## Material
 * Código hecho en clase <próximamente>
+* [Diapositivas de la clase](https://docs.google.com/presentation/d/1pTM57EEcFTFqbLoBamjjkxrwsccMdJwqf6NR_8Q2aSs/edit?usp=sharing)
 * [Video de Fold](https://www.youtube.com/watch?v=veiQkxz59NE).
 * [Video de lazy evaluation](https://www.youtube.com/watch?v=wZ0pBezum58)
 * En la sección de [Apuntes](https://www.pdep.com.ar/material/apuntes#h.38a137fb537f40e1_55), Módulos 4 y 5 y apunte de "la familia fold".
