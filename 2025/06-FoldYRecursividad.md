@@ -1,7 +1,8 @@
 # Clase 06: Familia Fold y Recursividad
 Fecha: 29/04/2025
 
-![Meeseeks](assets/meeseeks.mp4)
+https://github.com/user-attachments/assets/efed15ac-df3c-4aeb-be44-d7e5f224b1c1
+
 
 ## Material
 * Código hecho en clase <próximamente>
