@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/efed15ac-df3c-4aeb-be44-d7e5f224b1c1
 
 
 ## Material
-* Código hecho en clase <próximamente>
+* [Código hecho en clase](https://github.com/pdepman/clase-recursividad-fold-ev-diferida)
 * [Diapositivas de la clase](https://docs.google.com/presentation/d/1pTM57EEcFTFqbLoBamjjkxrwsccMdJwqf6NR_8Q2aSs/edit?usp=sharing)
 * [Video de Fold](https://www.youtube.com/watch?v=veiQkxz59NE).
 * [Video de lazy evaluation](https://www.youtube.com/watch?v=wZ0pBezum58)
