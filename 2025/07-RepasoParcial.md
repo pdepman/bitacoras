@@ -3,7 +3,7 @@ Fecha: 06/05/2025
 
 ## Material
 - [Enunciado PlagioDiPlagio](https://docs.google.com/document/d/196lhwG0v3vxe74W2zeblAE9dDRX9xfA8B5TfDDxoS8w/edit?tab=t.0)
-- [Solución vista en clase](https://github.com/pdepman/2025-f-simulacroPlagio/tree/codigoClase)
+- [Solución vista en clase](https://github.com/pdepman/2025-f-simulacroPlagio)
 - Apunte recomendado sobre [cómo resolver un parcial y no morir en el intento](https://docs.google.com/document/d/11X_4N1VfZB78f5Ff6M3VcW40nazlEFQu1d2p3Lyjg5c/edit#heading=h.4s3whc7yvau4).
 ## Tareas
 
