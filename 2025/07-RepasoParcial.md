@@ -9,6 +9,7 @@ Fecha: 06/05/2025
 
 > Probar [Miyuki](https://github.com/flbulgarelli/miyuki/wiki/Instalaci%C3%B3n) 🤬🤬🤬
 
+## Material de clase
 
 Les dejamos el template de un [repo vacío](https://github.com/pdepman/2025-f-repoBase) para resolver los parciales que quieren. Para crear su propio repo a partir de este tienen que apretar **Use this template**, y luego en donde dice **Create new repository**.
 
