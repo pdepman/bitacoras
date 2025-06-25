@@ -1,4 +1,4 @@
-# Clase 12: Individuos Compuestos, Polimorfismo y Listas.
+# Clase 13: Individuos Compuestos, Polimorfismo y Listas.
 ![image](https://github.com/user-attachments/assets/108318eb-a081-485f-8247-0044fe7a0467)
 
 ### Material 
