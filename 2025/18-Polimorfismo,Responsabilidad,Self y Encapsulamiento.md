@@ -12,6 +12,6 @@ Fecha: 09/09/2025
 
 ### Tarea para el 23/09
 
-* Los que deban entregarlo, tienen el enunciado del [Recuperatorio TP5]([https://docs.google.com/document/d/1YqR9PzIkVSkrhyN5EhvD6EhAWnk5YuvXAo0t8Oyk4RA/edit?tab=t.0#heading=h.qdd73gbpa95v](https://docs.google.com/document/d/1v5MK0lleYCnjITK-EQGJ4q8t7hq1px87vhVeVnrFKqc/edit?usp=drivesdk)) y el [Classroom para hacerlo](https://classroom.github.com/a/T2juNr4b).
+* Los que deban entregarlo, tienen el enunciado del [Recuperatorio TP5](https://docs.google.com/document/d/1v5MK0lleYCnjITK-EQGJ4q8t7hq1px87vhVeVnrFKqc/edit?usp=drivesdk) y el [Classroom para hacerlo](https://classroom.github.com/a/T2juNr4b).
 
 * Recuerden ir pensando ideas para el Wollok Game, veremos más a fondo esta propuesta la clase que viene. 
