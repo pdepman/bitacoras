@@ -1,4 +1,4 @@
-# Clase 17 - Intro a Objetos
+# Clase 20 - Clases, Diagrama Estatico y Excepciones
 
 Fecha: 23/09/2025
 
