@@ -6,6 +6,8 @@ Fecha: 23/09/2025
 
 ### Materiales que dan soporte a los temas de hoy
 
+* Codigo [Hecho en clase](https://github.com/pdepman/2025-o-clases-motos/tree/main)
+
 * Apuntes
   - [Clases](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit?tab=t.0#)
   - [Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?tab=t.0)
