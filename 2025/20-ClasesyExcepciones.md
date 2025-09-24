@@ -1,10 +1,15 @@
 # Clase 20 - Clases, Diagrama Estatico y Excepciones
 
+<img width="777" height="536" alt="image" src="https://github.com/user-attachments/assets/0660ff82-a97d-4ed7-9cb4-8828ea34e8f4" />
+
 Fecha: 23/09/2025
 
 ### Materiales que dan soporte a los temas de hoy
 
-- próximamente
+- [Apunte de clases](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit?tab=t.0#)
+- [Apunte de manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?tab=t.0)
+- [Apunte de instanciacion de objetos](https://docs.google.com/document/d/11c9l3sqgUIFDx1J_ULCSS86faMQXAyOV3uesg-nwaSY/edit?tab=t.0#heading=h.9a3zdaq6ihr7)
+- [Codigo hecho en clase]()
 
 ### Tarea para la clase que viene
 
