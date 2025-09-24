@@ -6,10 +6,11 @@ Fecha: 23/09/2025
 
 ### Materiales que dan soporte a los temas de hoy
 
-- [Apunte de clases](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit?tab=t.0#)
-- [Apunte de manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?tab=t.0)
-- [Apunte de instanciacion de objetos](https://docs.google.com/document/d/11c9l3sqgUIFDx1J_ULCSS86faMQXAyOV3uesg-nwaSY/edit?tab=t.0#heading=h.9a3zdaq6ihr7)
-- [Codigo hecho en clase]()
+* Apuntes
+  - [Clases](https://docs.google.com/document/d/1Dgq_PfCbJHO1M7dXe-vGXtj4mbEUWlYhfvQ2i0RWOsk/edit?tab=t.0#)
+  - [Manejo de errores](https://docs.google.com/document/d/1T87tmdXv_39RoE_zR7alVFK8TUl-KJYOhdoIsoVTRb4/edit?tab=t.0)
+  - [Instanciacion de objetos](https://docs.google.com/document/d/11c9l3sqgUIFDx1J_ULCSS86faMQXAyOV3uesg-nwaSY/edit?tab=t.0#heading=h.9a3zdaq6ihr7)
+  - [Codigo hecho en clase]()
 
 ### Tarea para la clase que viene
 
