@@ -2,6 +2,9 @@
 
 Fecha: 07/10/2025
 
+<img width="50%" alt="image" src="https://github.com/user-attachments/assets/c2d87bfa-d9ac-417e-8f1e-4e4912bc8dc4" />
+
+
 ### Materiales que dan soporte a los temas de hoy
 
 * Codigo [Hecho en clase](https://github.com/pdepman/2025-o-claseherencia)
