@@ -1,4 +1,4 @@
-# Clase 23 - Redefinición
+# Clase 23 - Corrección juegos
 
 Fecha: 21/10/2025
 
