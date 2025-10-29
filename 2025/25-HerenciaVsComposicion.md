@@ -14,5 +14,5 @@ Fecha: 28/10/2025
 
 ### Tarea para la clase que viene
 
-* Entrega 3 TP Juego
-* MUY recomendado terminar el [Enunciado](https://docs.google.com/document/d/1aiHgorQBgIp3TRaGWyV6uTa1YHjldc1wSILqUrrpENA/edit?usp=sharing) que no terminamos en clase
+* [Entrega 3](https://docs.google.com/document/d/1kOpVzhoWwwnn5gm_AV5d-CgIpZClNI1UOy6v-VnahHw/edit?tab=t.0) TP Juego
+* MUY recomendado terminar el [Enunciado](https://docs.google.com/document/d/1aiHgorQBgIp3TRaGWyV6uTa1YHjldc1wSILqUrrpENA/edit?usp=sharing) que no terminamos en clase. La clase que viene lo cerraremos.
