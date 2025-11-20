@@ -2,11 +2,18 @@
 
 Fecha: 18/11/2025
 
+<img width="498" height="323" alt="image" src="https://github.com/user-attachments/assets/3e6c21be-55e4-4e80-9809-44f199f498aa" />
+
+
 Hoy hicimos la presentación de acuerdo a [estas pautas](https://docs.google.com/document/d/13tL7hJfit8eaT4pv4ZWaWoLzvrMSEveXp4TumjOV4Os/edit?tab=t.0).
 
 También hicimos la votación con el siguiente resultado:
 
+<img width="652" height="240" alt="image" src="https://github.com/user-attachments/assets/3f282237-6b4a-4eb8-acb8-0e2306d186cb" />
 
+1er Puesto: WoToDe
+2do Puesto: OverWollok
+3er Puesto: Wollok de Cristal
 
 Si quieren ver los juegos de sus compas, a continuación los tienen:
 
