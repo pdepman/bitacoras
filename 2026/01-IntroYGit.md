@@ -3,7 +3,7 @@
 
 Fecha: 07/04/2026
 
-* Dado el paro de la semana pasada, para hoy había que entregar el [TP0 individual]()
+* Dado el paro de la semana pasada, para hoy había que entregar el [TP0 individual](https://docs.google.com/document/d/1nrsp9rPym3ZO-JZjfjj4sGHGior_kRHtPmts_apssxU/edit?usp=sharing)
 
 * Diapos de hoy [acá](https://docs.google.com/presentation/d/e/2PACX-1vS4vN3sI7GeRHHLUizsD72glRW_T5KVS32iGvDEEie7ud9s8wJGWOdCRcVoOWiTPGXVcQQI0ALNN2Gp/pub?start=false&loop=false&delayms=3000).
 * Contrato cursada feliz con **condiciones de aprobación y promoción** [acá](https://docs.google.com/document/d/1lQ_at_rPz1sG3G0HJyQgp6j0qhN6gijezC7siEUdDyc/edit?usp=sharing).
