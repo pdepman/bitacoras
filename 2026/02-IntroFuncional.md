@@ -15,3 +15,9 @@ Fecha: 14/04/2026
 * Ese ejercicio lo vamos a estar resolviendo la clase que viene asi que recomendamos que lo traigan ya pensado.
 * [Enunciado pinos](https://docs.google.com/document/d/1Lk9aKM2RE-xLgrdbHXa4nxoR9DhsUKRAs2UVDbtnmF0/edit?usp=sharing)
 * Si no lo resuelven en miyuki tambien pueden [iniciar un nuevo proyecto](https://pdepre.ludat.io/guides/nuevo_proyecto/) o clonar el repositorio con el codigo hecho en clase
+
+![image](assets/clase_02_programa.jpg)
+![image](assets/clase_02_git_matematica.jpg)
+![image](assets/clase_02_marvel.jpg)
+![image](assets/clase_02_bobesponja.jpg)
+![image](assets/clase_02_tiburoncin.jpg)
