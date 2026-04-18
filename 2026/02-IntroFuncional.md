@@ -2,7 +2,7 @@
 
 Fecha: 14/04/2026
 
-* [Presentación de la clase](assets/Clase%2002%29%20Programa%2C%20Intro%20a%20Funcional%2C%20Funciones%2C%20Expresiones%2C%20Tipos%20Básicos%2C%20Composición%20y%20Paradigma.pdf)
+* [Presentación de la clase](assets/clase_02_ppt.pdf)
 * Ejercicio de las [combis](https://drive.google.com/file/d/14NNfi4UK9LXbObCBqO5jU1G4_POdu6GT/view?usp=sharing).
 * [Código hecho en clase](https://github.com/pdepman/2026-f-intro-funcional/blob/main/src/Library.hs).
 * [Video](https://www.youtube.com/watch?v=WV1fPlFAw8M&ab_channel=Mumuki) 4' sobre **paréntesis** y [video](https://www.youtube.com/watch?v=ymCuneefgKU&ab_channel=Mumuki) de 3' sobre **precedencia** en Haskell.
