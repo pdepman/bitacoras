@@ -2,7 +2,7 @@
 
 fecha: 28/04/2026
 
-* Ejercicio hecho en clase _¿Cuánto rinde el salario?_ - [Enunciado](https://docs.google.com/document/d/1Ig13-nwLprkKTtuvintsWSX50bR_db53UWOtB7eOlVg/edit?usp=sharing) y [Código]()
+* Ejercicio hecho en clase _¿Cuánto rinde el salario?_ - [Enunciado](https://docs.google.com/document/d/1Ig13-nwLprkKTtuvintsWSX50bR_db53UWOtB7eOlVg/edit?usp=sharing) y [Código](https://github.com/pdepman/clase-test-04)
 * [Apunte](https://docs.google.com/document/d/1Rzsp5A46R_WdC-NJ6_SKrUrtZ6LmR5A52BazE9XPLIc/edit) sobre **Orden superior**.
 * [Apunte](https://docs.google.com/document/d/17EPSZSw7oY_Rv2VjEX2kMZDFklMOcDVVxyve9HSG0mE/edit#heading=h.s41ggdjqkuv6) sobre **Testing**.
 * [Apunte](https://docs.google.com/document/d/1n7TPE2qRpFSnj95lIZFD-q7Ko_DT9XZLH9_kEkNClrU/edit?tab=t.0) sobre **composición y aplicación parcial**.
