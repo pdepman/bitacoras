@@ -1,6 +1,6 @@
 # Clase 09: Introducción al paradigma lógico
 
-Fecha: 16/06/2024
+Fecha: 16/06/2026
 
 ![aang](../2025/assets/aang.png)
 
