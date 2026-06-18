@@ -21,5 +21,6 @@ Fecha: 16/06/2024
 * Trabajo práctico individual [Enunciado](https://docs.google.com/document/d/18VMNw0u0B58TFfxaMtYdXV4ZQOUEAWL87HAP8K1jKLs/edit?tab=t.0) y [Classroom](https://classroom.github.com/a/8MPAPWMU)
 * **Condiciones de entrega:**
   * Es **individual**.
+  * Hay que leer el apunte de unit testing de arriba para completarlo.
   * Se entrega **en papel al inicio de la clase que viene**, sólo la hoja con el .pl impreso, no es necesaria carátula ni folio. Si quieren abrochar porque tienen más de una hoja está bien.
   * Corregiremos en clase.
