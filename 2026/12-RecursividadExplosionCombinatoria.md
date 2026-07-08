@@ -15,7 +15,3 @@ Fecha: 07/7/2026
 ## Extras
 
 * [Demo explosión combinatoria](https://explosion.noise.ar)
-
-### Podio Parahoot
-
-- Agregar screenshot magen
