@@ -8,7 +8,7 @@ Fecha: 18/08/2026
 ## Materiales que dan soporte a los temas de hoy
 
 * [Enunciado](https://docs.google.com/document/d/1jnhB3_pnOZqopma32_qRiiI6n0VX84_Xv5q-PtcbFS8/edit?usp=drivesdk)
-* Código hecho en clase
+* [Código hecho en clase](https://github.com/pdepman/2026-o-clase-intro)
 * Wiki
   * [Mensajes y métodos](https://wiki.uqbar.org/wiki/articles/mensajes-y-metodos.html)
   * [Variables](https://wiki.uqbar.org/wiki/articles/variables.html)
