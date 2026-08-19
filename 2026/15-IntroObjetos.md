@@ -22,6 +22,6 @@ Fecha: 18/08/2026
 
 ## Tarea para la clase que viene
 * [Instalar Wollok](https://www.wollok.org/getting_started/installation/)
-* [Intalar Miyuki v1.0.7](https://github.com/miyukiproject/miyuki/releases/tag/pdep%2Fv1.0.7)
+* [Instalar Miyuki v1.0.7](https://github.com/miyukiproject/miyuki/releases/tag/pdep%2Fv1.0.7)
   * Para evitar errores, primero borren los contenedores en Docker y luego ejecuten el instalador.
 * Hacer hasta "5. Práctica Objetos y Mensajes" inclusive.
