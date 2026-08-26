@@ -4,6 +4,10 @@ Fecha: 25/08/2026
 
 <img width="638" height="359" alt="image" src="https://github.com/user-attachments/assets/908af65d-b27c-4cfa-afe7-c88c630c97d1" />
 
+---
+
+### Recuerden el cambio en el [cronograma](https://docs.google.com/spreadsheets/d/1GGkGM-3hDrTGhkEtC3eatz36x5n89-VfeRWrQwB5_C0/edit?gid=336274160#gid=336274160). El recuperatorio de lógico queda para el 08/09/2026
+
 # Materiales de la clase
 
 * Código [hecho en clase](https://github.com/pdepman/2026-o-encapsulamientoPolimorfismo).
