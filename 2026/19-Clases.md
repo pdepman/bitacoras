@@ -1,4 +1,4 @@
-# Clase 19 - Clases, Diagrama Estatico y Excepciones
+# Clase 19 - Clases
 
 <img width="777" height="536" alt="image" src="https://github.com/user-attachments/assets/0660ff82-a97d-4ed7-9cb4-8828ea34e8f4" />
 
