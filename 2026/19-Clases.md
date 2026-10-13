@@ -6,6 +6,7 @@ Fecha: 06/10/2026
 
 ### Materiales que dan soporte a los temas de hoy
 
+* [Enunciado](https://docs.google.com/document/d/17GvveEde5JYCHrrOoz53-sIADNqdR-u2SzJSvHT2A-c/edit?tab=t.0)
 * Codigo [Hecho en clase](https://github.com/pdepman/2026-o-wollokwars)
 
 * Apuntes
