@@ -2,6 +2,9 @@
 
 Fecha: 20/10/2026
 
+<img width="1360" height="849" alt="image" src="https://github.com/user-attachments/assets/a3117308-649f-4e81-a843-171b0e57596e" />
+
+
 ### Materiales que dan soporte a los temas de hoy
 
 - [Enunciado](https://github.com/pdepman/2026-o-repaso-clases/blob/main/Dr%20Casa%20Temporadas%201%20y%202%20-%20Wollok.pdf)
