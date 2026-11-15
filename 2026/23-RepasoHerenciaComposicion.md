@@ -10,5 +10,5 @@ Es decir, hablamos un poco sobre la situación de incumplimiento de la ley de ed
 
 ### Materiales que dan soporte a los temas de hoy
 
-- [:film_strip: Video de la clase](https://drive.google.com/file/d/1qqBH6QG2SC0OBq2-PA4n9Dg-WZMi1gPM/view?usp=sharing)
+- [:film_strip: Video de la clase](https://drive.google.com/file/d/1qqBH6QG2SC0OBq2-PA4n9Dg-WZMi1gPM/view?usp=sharing) (Hay una parte que olvidamos grabar)
 - [:computer: Código de la clase](https://github.com/pdepman/2026-o-repaso)
