@@ -1,4 +1,4 @@
-# Clase 21 - Herencia y redefinición
+# Clase 21 - Herencia
 
 Fecha: 20/10/2026
 
